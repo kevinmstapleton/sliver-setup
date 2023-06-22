@@ -2,7 +2,7 @@
 # How To Create a C2 Server Using Sliver (Linux - Linux)
 
 
-This tutorial is a followup to the README for going from a Linux Host to a Linux Client instead of Linux Host -> Windows Client
+This tutorial is a continuation to the README for going from a Linux Host to a Linux Client instead of Linux Host -> Windows Client
 
 ## Server
 
