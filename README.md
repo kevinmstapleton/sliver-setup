@@ -62,6 +62,8 @@ Both of these methods should result in the same outcome, with a simple http serv
 Now that we have a file server on our Linux machine that is serving up the executable file, we can move on to our Windows Machine.
 > Note the infected machine can also be a Linux machine, but it will not have some of the same features as a Windows client
 
+### What if I have a Linux Client?
+(Look here!)[
 
 ### Disable Anti-Virus Protections
 Infecting the Windows Machine will first and foremost require some changes to Windows Defender. Sadly, due to the popularity of this tool, Windows Defender has wisened up and will recognize the signature, not allowing you to run the executable otherwise. Locate the Virus & threat protection settings using the search bar:
@@ -127,7 +129,9 @@ Simply type `use`, tab to auto fill the session id, and press enter on the desir
 
 Now that the session is open, you have a myriad of options available to you. I will not cover all of them, except an important one, which is opening a powershell session on the infected client.
 
-### Powershell Session
+### Powershell / BASH Session
+*These instructions are the same for both Windows and Linux*
+
 To open a shell, you will need to create an `interactive` session.
 
 ![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/659ad9b0-f5ec-4567-8ff7-a04b7b63343b)
@@ -144,7 +148,7 @@ This will open an 'interactive' session which will allow you to run a shell (you
 
 To confirm if you are in the correct session, your terminal should be red if you are in an interactive session.
 
-Now, simply type `shell` into your terminal, accept the disclaimer, and you can now run powershell commands on your client as if you were the user!
+Now, simply type `shell` into your terminal, accept the disclaimer, and you can now run powershell / bash commands on your client as if you were the user!
 
 ![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/bdbbf84b-ee17-4eb3-a44c-1ba6e713ea1f)
 
