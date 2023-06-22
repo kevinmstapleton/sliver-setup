@@ -55,7 +55,7 @@ This should install the file to the directory you are currently in.
 
 Give the script executable permissions using `CHMOD 777 *NAME_OF_BINARY*`
 
-Then, simply run the binary in the background with sudo ./*NAME_OF_BINARY* &
+Then, simply run the binary in the background with `./*NAME_OF_BINARY* &`
 
 Your Linux machine should now appear in your beacons!
 
