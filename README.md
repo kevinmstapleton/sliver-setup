@@ -63,7 +63,7 @@ Now that we have a file server on our Linux machine that is serving up the execu
 > Note the infected machine can also be a Linux machine, but it will not have some of the same features as a Windows client
 
 ### What if I have a Linux Client?
-(Look here!)[
+[Linux Instructions!](Linux_Instructions.md)
 
 ### Disable Anti-Virus Protections
 Infecting the Windows Machine will first and foremost require some changes to Windows Defender. Sadly, due to the popularity of this tool, Windows Defender has wisened up and will recognize the signature, not allowing you to run the executable otherwise. Locate the Virus & threat protection settings using the search bar:
