@@ -62,4 +62,4 @@ Your Linux machine should now appear in your beacons!
 ![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/60ad21d3-25a4-4fa9-9beb-08cc266bb48c)
 
 
-Now, you can continue back to the original guide in the [README](README.md)
+Now, you can continue back to the original guide starting at 'The Door's Open, Now What?' in the [README](README.md)
