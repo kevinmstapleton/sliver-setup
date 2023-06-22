@@ -68,7 +68,7 @@ Infecting the Windows Machine will first and foremost require some changes to Wi
 
 ![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/e5940d54-f229-4a8c-ac8d-5348e5e0735c)
 
-Go to Virus & thread protection settings:
+Go to Virus & Threat protection settings:
 
 ![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/9453cae9-69e5-45d8-99af-656e03381fd1)
 
