@@ -137,8 +137,6 @@ Now that the session is open, you have a myriad of options available to you. I w
 
 To open a shell, you will need to create an `interactive` session.
 
-![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/659ad9b0-f5ec-4567-8ff7-a04b7b63343b)
-
 To do so, first type `interactive` into your terminal.
 
 ![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/b45c64a1-a837-4b21-b4a0-bfd8906b69c9)
