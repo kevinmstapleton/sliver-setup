@@ -128,11 +128,9 @@ Simply type `use`, tab to auto fill the session id, and press enter on the desir
 Now that the session is open, you have a myriad of options available to you. I will not cover all of them, except an important one, which is opening a powershell session on the infected client.
 
 ### Powershell Session
-To open a shell, you may notice that the `shell` command doesn't immediately work, and that your session color is blue instead of red:
+To open a shell, you will need to create an `interactive` session.
 
 ![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/659ad9b0-f5ec-4567-8ff7-a04b7b63343b)
-
-That is because you need to open an `interactive` session.
 
 To do so, first type `interactive` into your terminal.
 
