@@ -136,11 +136,13 @@ To do so, first type `interactive` into your terminal.
 
 ![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/b45c64a1-a837-4b21-b4a0-bfd8906b69c9)
 
-Open that new session using use:
+Open that new session using use (In the image above, the first part of the id you want to find is referenced, in this case `10329df6 ...`):
 
 ![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/b91232d9-de5f-44a0-a555-e25908095612)
 
 This will open an 'interactive' session which will allow you to run a shell (you may need to wait for the command to run, because beacons use a periodic execution strategy to avoid detection).
+
+To confirm if you are in the correct session, your terminal should be red if you are in an interactive session.
 
 Now, simply type `shell` into your terminal, accept the disclaimer, and you can now run powershell commands on your client as if you were the user!
 
