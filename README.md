@@ -1,4 +1,4 @@
-# How To Create a Listener Server Using Sliver
+# How To Create a C2 Server Using Sliver
 
 
 This tutorial will cover how to setup a [Sliver](https://github.com/BishopFox/sliver) host  (*Tested with Ubuntu 20.04 but should work with other distributions*)
