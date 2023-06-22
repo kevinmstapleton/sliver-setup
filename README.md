@@ -52,9 +52,9 @@ To start a webserver using python, first check that you have python installed on
 
 I would *highly recommend* hosting this server as a background process using & so that you can reopen sliver, although you could also run this server inside a container or on another page of your terminal if your machine supports that.
 
-If you have python3, you can run this command: `python3 -m http.server (&)`. If you have a valid internet connection, you should get a response saying your machine is now hosting on 0.0.0.0:8000.
+If you have python3, you can run this command: `python3 -m http.server &`. If you have a valid internet connection, you should get a response saying your machine is now hosting on 0.0.0.0:8000.
 
-If you do not have python3, you can run this command: `python -m SimpleHTTPServer (&)`.
+If you do not have python3, you can run this command: `python -m SimpleHTTPServer &`.
 
 Both of these methods should result in the same outcome, with a simple http server hosting the files on your current directory.
 
