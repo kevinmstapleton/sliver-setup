@@ -159,7 +159,14 @@ Now, simply type `shell` into your terminal, accept the disclaimer, and you can 
 
 This shell can now be used to run atomic tests, or whatever else you could think to do with this.
 
-Happy coding!
+### Linux:
+*Bonus: Even though the executable can be run without elevated permissions, sudo commands can be run.*
+
+![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/b3bb11bc-460b-42aa-ba79-e6189962302c)
+
+Neat!
+
+### Happy coding!
 
 
 
