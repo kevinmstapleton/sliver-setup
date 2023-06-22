@@ -111,6 +111,7 @@ Upon doing so, Sliver should hint that someone is falling for the trap!
 Once the executable is done running, you are done with the client. You're in, that easy!
 
 ## The Door's Open, Now What?
+*These instructions are the same for both Windows and Linux*
 
 Upon the executable finishing its execution, you should see this on your sliver host:
 
