@@ -53,7 +53,7 @@ To use wget, type in your terminal:
 
 This should install the file to the directory you are currently in.
 
-Give the script executable permissions using `CHMOD 777 *NAME_OF_BINARY*`
+Give the script executable permissions using `chmod 777 *NAME_OF_BINARY*`
 
 Then, simply run the binary in the background with `./*NAME_OF_BINARY* &`
 
