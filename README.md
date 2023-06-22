@@ -140,7 +140,7 @@ Open that new session using use:
 
 ![image](https://github.com/kevinmstapleton/sliver-setup/assets/59635226/b91232d9-de5f-44a0-a555-e25908095612)
 
-This will open an 'interactive' session which will allow you to run a shell.
+This will open an 'interactive' session which will allow you to run a shell (you may need to wait for the command to run, because beacons use a periodic execution strategy to avoid detection).
 
 Now, simply type `shell` into your terminal, accept the disclaimer, and you can now run powershell commands on your client as if you were the user!
 
